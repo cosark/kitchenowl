@@ -88,6 +88,10 @@ Get it in your favorite store or find the current release for your operating sys
 
 Please take a look at the [get started guide](https://docs.kitchenowl.org/latest/self-hosting/).
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/KitchenOwl/)
+
 ## 🙌 Contributing
 
 From opening a bug report to creating a pull request: every contribution is appreciated and welcomed. If you're planning to implement a new feature or change the API please create an issue first. This way, we can ensure your work is not in vain.
